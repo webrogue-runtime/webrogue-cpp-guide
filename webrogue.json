@@ -1,6 +1,6 @@
 {
-    "name": "simple",
-    "id": "webrogue.examples.CppGuide",
+    "name": "Webrogue C++ guide",
+    "id": "webrogue.guides.CppGuide",
     "version": "0.1.0",
     "main": "build/main"
 }
